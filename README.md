@@ -1,4 +1,4 @@
-# iPodLinux Games
+# my Contribution to iPodLinux Project
 
 A small collection of games I wrote for **iPodLinux**, mostly during two- or three-night coding sessions.
 
